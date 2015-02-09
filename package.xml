@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package id="0515fb53-eea6-4bf0-ae15-ff71f33916df">
+  <entity class="3" type="4" language="1" region="-1" platform="-1" oem="-1" name="VSAPI_Pattern_ENT_00 1129802" version="1129802">
+    <files>
+      <file name="lpt$vpn.298" method="MD5" digest="670d2ff63445f3bed3eb8c77c4df1648" />
+    </files>
+  </entity>
+</package>

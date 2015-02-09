@@ -1,0 +1,30 @@
+<Config zippath="c:\Program Files\7-Zip\7z.exe">
+	<Products>
+		<Product name="DeepSecurity" isDefault="1">
+			<Versions>
+				<Version value="9.0" updateRoot= "C:\Program Files\Trend Micro\Deep Security Relay\relay\iau">
+					<id>c22t2200v8.0.0l1p1r1o1</id>
+					<id>c22t2200v8.0.0l1p257r1o1</id>
+					<id>c22t2200v8.0.0l1p5889r1o1</id>
+					<id>c22t2200v8.0.0l1p9217r1o1</id>
+					<id>c22t2200v8.0.0l4p1r3o1</id>
+					<id>c22t2200v8.0.0l4p257r3o1</id>				
+					<id>c22t2200v8.0.0l4p5889r3o1</id>
+					<id>c22t2200v8.0.0l4p9217r3o1</id>
+					<id>c22t2200v8.0.0l8p1r5o1</id>
+					<id>c22t2200v8.0.0l8p257r5o1</id>
+					<id>c22t2200v8.0.0l8p5889r5o1</id>
+					<id>c22t2200v8.0.0l8p9217r5o1</id>					
+					<id>c22t2201v8.0.0l1p9217r1o1</id>
+					<id>c22t2202v8.0.0l1p1r1o1</id>
+					<id>c22t2202v8.0.0l1p5889r1o1</id>
+					<id>c22t2202v8.0.0l1p9217r1o1</id>													
+				</Version>
+				<Version value="9.5" updateRoot= "C:\ProgramData\Trend Micro\Deep Security Agent\relay\www">
+					<id>c22t2200v9.5.0l1p1r1o1</id>
+					<id>c22t2200v9.5.0l1p5889r1o1</id>
+				</Version>
+			</Versions>
+		</Product>
+	</Products>
+</Config>
